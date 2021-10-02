@@ -1,0 +1,2 @@
+ npx create-react-app react-comp-guide:      create react module
+npm start:          start your project live
