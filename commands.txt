@@ -4,4 +4,4 @@ npx create-react-app react-comp-guide:      create react function module
 npm start:                                                          start your project live
 npm install --save styled-components:          for styled components
 create-react-app 03components --scripts-version 1.1.5:    creates react class module
-npm install create-react-app -g :                  it will install all react modules globa
+npm install create-react-app -g :                  it will install all react modules globally
