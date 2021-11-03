@@ -10,7 +10,7 @@ function App() {
     setListTitle('New Title');
   }, []);
 
-  const listItems = useMemo(() => [5, 3, 10, 1, 9], []);      // useMemo() uses the memory to store the passed values in memory
+  const listItems = useMemo(() => [5, 3, 10, 1, 9], []);      // useMemo() uses the memory to store the passed values in memory. It memorises data or output data of a function to save expensive calculations on the cost of memory, so use it wisely.
 
   return (
     <div className="app">
