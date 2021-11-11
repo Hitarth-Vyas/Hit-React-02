@@ -5,3 +5,5 @@ npm start:                                                          start your p
 npm install --save styled-components:          for styled components
 create-react-app 03components --scripts-version 1.1.5:    creates react class module
 npm install create-react-app -g :                  it will install all react modules globa
+
+visit formik
