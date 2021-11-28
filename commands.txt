@@ -12,3 +12,6 @@ npm install  redux redux
 npm install  redux react-redux
 npm install @reduxjs/toolkit
 npm install react-router-dom
+
+npx create-next-app           (to create next app)
+npm run dev                  (runs next app on live server)
