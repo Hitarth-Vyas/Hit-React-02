@@ -13,6 +13,7 @@ const MeetupDetails = (props) => {
         content={props.meetupData.description}
       />
     </Head>
+    <MeetupList meetups={props.meetups} />;
     <MeetupDetail
       image={props.meetupData.image}
       title={props.meetupData.title}
