@@ -15,3 +15,6 @@ npm install react-router-dom
 
 npx create-next-app           (to create next app)
 npm run dev                  (runs next app on live server)
+
+npm install bootstrap                (install bootstrap modules)
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'          (use bootstrap in particular react component)
